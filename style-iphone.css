@@ -1,0 +1,19 @@
+body
+{
+	background-image: url("images/fond2.png");
+}
+
+.apple
+{
+	background-image: url('images/fond.png');
+	border-radius: 15px;
+	border: 2px solid rgb(100, 100, 120);
+	font-family: Verdana;
+	padding: 5px;
+}
+
+.apple a
+{
+	text-decoration:none;
+	color: #565454;
+}
